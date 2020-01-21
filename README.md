@@ -17,6 +17,8 @@ and for having popular male names start with BOR.
 
 ![Borat](https://upload.wikimedia.org/wikipedia/en/3/39/Borat_ver2.jpg)
 
+https://en.wikipedia.org/wiki/Borat
+
 When I was 14 my family moved to Königsberg, because it matches the same pattern (Capital K + 9 random characters) 
 and because we like solving problems that involve [bridges](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
 
