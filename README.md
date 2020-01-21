@@ -6,8 +6,6 @@ Prerequisites: basic computer knowledge, sense of humor
 
 ***
 
-My name is Boris Maximenko.
-
 I was born and raised in [Kazakhstan](https://en.wikipedia.org/wiki/Kazakhstan).
 
 ![Flag of Kazakhstan](https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg)
