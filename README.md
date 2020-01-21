@@ -59,7 +59,7 @@ because humans are not designed for [concurrency](https://en.wikipedia.org/wiki/
 ![Four bottle juggle](files/050529-32.jpg)
 ![Pouring coctails](files/050529-33.jpg)
 
-Today I'm an Android engineer, because Android is the next big thing. 
-Actually, it's the big thing next to me on the photo:
+Today I'm an Android engineer, because [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) is 
+the next big thing. Actually, it's the big thing next to me on the photo:
 
 ![Boris and Android](files/IMG_20170314_150252.jpeg)
