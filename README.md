@@ -2,7 +2,9 @@
 
 Estimated read time: 5 min.
 
-Prerequisites: basic computer / software knowledge, sense of humor
+Prerequisites: basic computer knowledge, sense of humor
+
+***
 
 My name is Boris Maximenko.
 
