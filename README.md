@@ -38,6 +38,7 @@ because it's in a different time zone (and epoch).
 
 Since then I eat [Kosher food](https://en.wikipedia.org/wiki/Kosher_foods) if I can find it. 
 Otherwise, I go into power saving mode.
+![Power saving mode](files/IMG_20200102_225226.jpg)
 
 I don't have a [Mac](https://en.wikipedia.org/wiki/Macintosh) at home, 
 because Macs run on [Darwin OS](https://en.wikipedia.org/wiki/Darwin_(operating_system)). 
